@@ -2,7 +2,7 @@
 #include <Arduino.h>
 #include <WiFi.h>
 #include <HTTPClient.h>
-#define NUM_LEDS 60
+#define NUM_LEDS 55
 
 String ssid = "AcidBox";
 String password = "Gtk980Dfr";
